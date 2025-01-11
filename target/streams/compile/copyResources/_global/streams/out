@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nassimsahib/Desktop/sda_2024_test/src/main/resources/Configuration/reader_json.json,/Users/nassimsahib/Desktop/sda_2024_test/target/scala-2.12/classes/Configuration/reader_json.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nassimsahib/Desktop/sda_2024_test/src/main/resources/Configuration/reader_xml.json,/Users/nassimsahib/Desktop/sda_2024_test/target/scala-2.12/classes/Configuration/reader_xml.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nassimsahib/Desktop/sda_2024_test/src/main/resources/Configuration/reader_csv.json,/Users/nassimsahib/Desktop/sda_2024_test/target/scala-2.12/classes/Configuration/reader_csv.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nassimsahib/Desktop/sda_2024_test/src/main/resources/DataforTest/data.csv,/Users/nassimsahib/Desktop/sda_2024_test/target/scala-2.12/classes/DataforTest/data.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nassimsahib/Desktop/sda_2024_test/src/main/resources/DataforTest/data.json,/Users/nassimsahib/Desktop/sda_2024_test/target/scala-2.12/classes/DataforTest/data.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nassimsahib/Desktop/sda_2024_test/src/main/resources/DataforTest/data.xml,/Users/nassimsahib/Desktop/sda_2024_test/target/scala-2.12/classes/DataforTest/data.xml)[0m

@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/test/scala/TestUnitaire/TestUnitaire.scala:80:34: not found: value Row[0m
+[0m[[0m[31merror[0m] [0m[0m      ("100,5|0,19", "1", 119.6, Row(Row("Paris", "2024-12-23"))),[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/test/scala/TestUnitaire/TestUnitaire.scala:80:38: not found: value Row[0m
+[0m[[0m[31merror[0m] [0m[0m      ("100,5|0,19", "1", 119.6, Row(Row("Paris", "2024-12-23"))),[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/test/scala/TestUnitaire/TestUnitaire.scala:81:37: not found: value Row[0m
+[0m[[0m[31merror[0m] [0m[0m      ("120,546|0,20", "2", 144.66, Row(Row("Alger", "2024-12-23"))),[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/test/scala/TestUnitaire/TestUnitaire.scala:81:41: not found: value Row[0m
+[0m[[0m[31merror[0m] [0m[0m      ("120,546|0,20", "2", 144.66, Row(Row("Alger", "2024-12-23"))),[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/test/scala/TestUnitaire/TestUnitaire.scala:82:36: not found: value Row[0m
+[0m[[0m[31merror[0m] [0m[0m      ("123,6|0,201", "3", 148.44, Row(Row("Dakar", "2020-12-23"))),[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/test/scala/TestUnitaire/TestUnitaire.scala:82:40: not found: value Row[0m
+[0m[[0m[31merror[0m] [0m[0m      ("123,6|0,201", "3", 148.44, Row(Row("Dakar", "2020-12-23"))),[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/test/scala/TestUnitaire/TestUnitaire.scala:83:33: not found: value Row[0m
+[0m[[0m[31merror[0m] [0m[0m      ("5,546|0,15", "4", 6.38, Row(Row("Abidjan", "2024-12-23")))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/test/scala/TestUnitaire/TestUnitaire.scala:83:37: not found: value Row[0m
+[0m[[0m[31merror[0m] [0m[0m      ("5,546|0,15", "4", 6.38, Row(Row("Abidjan", "2024-12-23")))[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

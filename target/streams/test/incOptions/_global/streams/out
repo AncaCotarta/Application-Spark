@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/nassimsahib/Desktop/sda_2024_test/target/scala-2.12/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator26$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator66$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator86$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator46$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator56$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator76$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator36$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator26$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator66$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator86$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator46$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator56$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator76$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator36$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator26$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator66$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator86$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator46$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator56$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator76$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ServiceVenteTest$$typecreator36$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/nassimsahib/Desktop/sda_2024_test/target/scala-2.12/test-classes.bak[0m

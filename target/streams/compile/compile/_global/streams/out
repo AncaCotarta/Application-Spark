@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/main/scala/sda/main/MainBatch.scala:36:18: missing argument list for method extractDateEndContratVille in class DataFrameUtils[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `extractDateEndContratVille _` or `extractDateEndContratVille(_)` instead of `extractDateEndContratVille`.[0m
+[0m[[0m[31merror[0m] [0m[0m    df.calculTTC.extractDateEndContratVille.show[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nassimsahib/Desktop/sda_2024_test/src/main/scala/sda/main/MainBatch.scala:38:18: missing argument list for method extractDateEndContratVille in class DataFrameUtils[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `extractDateEndContratVille _` or `extractDateEndContratVille(_)` instead of `extractDateEndContratVille`.[0m
+[0m[[0m[31merror[0m] [0m[0m    df.calculTTC.extractDateEndContratVille.contratStatus.show(20)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,129 @@
+[debug] > Exec(;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/44/jh9fhm3j7k18b_z70c76pcc00000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveSourceClassifiers");apply -cp "/Users/nassimsahib/Library/Application Support/JetBrains/IdeaIC2024.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2024.2.2/sbt-structure-extractor-2024.2.2.jar" "org.jetbrains.sbt.CreateTasks" "sbt.jetbrains.LogDownloadArtifacts";preferScala2;*/*:dumpStructure, Some(5dce8da8-73f4-4a01-ba56-295f42aa8b46), Some(CommandSource(console0)))
+[debug] > Exec(set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/44/jh9fhm3j7k18b_z70c76pcc00000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveSourceClassifiers"), None, Some(CommandSource(console0)))
+[info] Defining Global / sbtStructureOptions, Global / sbtStructureOutputFile and 1 others.
+[info] The new values will be used by cleanKeepGlobs
+[info] 	Run `last` for details.
+[debug] Defining 
+[debug] 	Global / sbtStructureOptions
+[debug] 	Global / sbtStructureOutputFile
+[debug] 	history
+[debug] 	shellPrompt
+[debug] 
+[debug] The new values will be used by 
+[debug] 	cleanKeepGlobs
+[info] Reapplying settings...
+[info] set current project to projet_sda_2024 (in build file:/Users/nassimsahib/Desktop/sda_2024_test/)
+[debug] > Exec(apply -cp "/Users/nassimsahib/Library/Application Support/JetBrains/IdeaIC2024.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2024.2.2/sbt-structure-extractor-2024.2.2.jar" "org.jetbrains.sbt.CreateTasks" "sbt.jetbrains.LogDownloadArtifacts", None, Some(CommandSource(console0)))
+[info] Applying State transformations org.jetbrains.sbt.CreateTasks, sbt.jetbrains.LogDownloadArtifacts from /Users/nassimsahib/Library/Application Support/JetBrains/IdeaIC2024.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2024.2.2/sbt-structure-extractor-2024.2.2.jar
+[info] Reapplying settings...
+[info] set current project to projet_sda_2024 (in build file:/Users/nassimsahib/Desktop/sda_2024_test/)
+[info] Reapplying settings...
+[info] set current project to projet_sda_2024 (in build file:/Users/nassimsahib/Desktop/sda_2024_test/)
+[debug] > Exec(preferScala2, None, Some(CommandSource(console0)))
+[debug] > Exec(*/*:dumpStructure, None, Some(CommandSource(console0)))
+[debug] Evaluating tasks: Global / dumpStructure
+[warn] sbt 0.13 shell syntax is deprecated; use slash syntax instead: Global / dumpStructure
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-client/3.3.4/hadoop-client-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-client/3.3.4/hadoop-client-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-project-dist/3.3.4/hadoop-project-dist-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-project-dist/3.3.4/hadoop-project-dist-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/3.3.4/hadoop-common-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-hdfs-client/3.3.4/hadoop-hdfs-client-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-annotations/3.3.4/hadoop-annotations-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/3.3.4/hadoop-mapreduce-client-jobclient-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/3.3.4/hadoop-yarn-client-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/3.3.4/hadoop-mapreduce-client-core-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/3.3.4/hadoop-common-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/3.3.4/hadoop-yarn-api-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/3.3.4/hadoop-yarn-api-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/3.3.4/hadoop-yarn-client-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/3.3.4/hadoop-mapreduce-client-core-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-hdfs-client/3.3.4/hadoop-hdfs-client-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-annotations/3.3.4/hadoop-annotations-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/3.3.4/hadoop-mapreduce-client-jobclient-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn/3.3.4/hadoop-yarn-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/3.3.4/hadoop-mapreduce-client-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/3.3.4/hadoop-mapreduce-client-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn/3.3.4/hadoop-yarn-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/3.3.4/hadoop-yarn-common-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-reload4j/1.7.36/slf4j-reload4j-1.7.36.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-auth/3.3.4/hadoop-auth-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/3.3.4/hadoop-mapreduce-client-common-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/ch/qos/reload4j/reload4j/1.2.22/reload4j-1.2.22.pom
+[info] downloaded https://repo1.maven.org/maven2/ch/qos/reload4j/reload4j/1.2.22/reload4j-1.2.22.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/3.3.4/hadoop-mapreduce-client-common-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-reload4j/1.7.36/slf4j-reload4j-1.7.36.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-auth/3.3.4/hadoop-auth-3.3.4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/3.3.4/hadoop-yarn-common-3.3.4.pom
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.12.7/jackson-module-jaxb-annotations-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.pom
+[info] downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10.pom
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.12.7/jackson-jaxrs-json-provider-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/4.9.3/okhttp-4.9.3.pom
+[info] downloaded https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10.pom
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.12.7/jackson-jaxrs-json-provider-2.12.7.pom
+[info] downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/4.9.3/okhttp-4.9.3.pom
+[info] downloaded https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.pom
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.12.7/jackson-module-jaxb-annotations-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.12.7/jackson-jaxrs-providers-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.12.7/jackson-modules-base-2.12.7.pom
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.12.7/jackson-jaxrs-providers-2.12.7.pom
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.12.7/jackson-modules-base-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-base/2.12.7/jackson-base-2.12.7.pom
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-base/2.12.7/jackson-base-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.7/jackson-bom-2.12.7.pom
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.7/jackson-bom-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.12.7/jackson-jaxrs-base-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.pom
+[info] downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.pom
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.12.7/jackson-jaxrs-base-2.12.7.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/3.3.4/hadoop-mapreduce-client-jobclient-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.12.7/jackson-jaxrs-json-provider-2.12.7.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-annotations/3.3.4/hadoop-annotations-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/ch/qos/reload4j/reload4j/1.2.22/reload4j-1.2.22.jar
+[info] downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/4.9.3/okhttp-4.9.3.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/3.3.4/hadoop-mapreduce-client-common-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-annotations/3.3.4/hadoop-annotations-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-hdfs-client/3.3.4/hadoop-hdfs-client-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/3.3.4/hadoop-mapreduce-client-jobclient-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.12.7/jackson-jaxrs-json-provider-2.12.7.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-auth/3.3.4/hadoop-auth-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/ch/qos/reload4j/reload4j/1.2.22/reload4j-1.2.22.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/3.3.4/hadoop-mapreduce-client-core-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar
+[info] downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar
+[info] downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/4.9.3/okhttp-4.9.3.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/3.3.4/hadoop-yarn-common-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/3.3.4/hadoop-mapreduce-client-common-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-reload4j/1.7.36/slf4j-reload4j-1.7.36.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-auth/3.3.4/hadoop-auth-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-client/3.3.4/hadoop-client-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar
+[info] downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10.jar
+[info] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-reload4j/1.7.36/slf4j-reload4j-1.7.36.jar
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.12.7/jackson-module-jaxb-annotations-2.12.7.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-client/3.3.4/hadoop-client-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/3.3.4/hadoop-yarn-client-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.12.7/jackson-module-jaxb-annotations-2.12.7.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/3.3.4/hadoop-common-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/3.3.4/hadoop-yarn-client-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.12.7/jackson-jaxrs-base-2.12.7.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/3.3.4/hadoop-yarn-common-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/3.3.4/hadoop-yarn-api-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/3.3.4/hadoop-mapreduce-client-core-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.12.7/jackson-jaxrs-base-2.12.7.jar
+[info] downloaded https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-hdfs-client/3.3.4/hadoop-hdfs-client-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/3.3.4/hadoop-common-3.3.4.jar
+[info] downloaded https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/3.3.4/hadoop-yarn-api-3.3.4.jar
+[info] downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10-sources.jar
+[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.12.7/jackson-jaxrs-json-provider-2.12.7-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/3.3.4/hadoop-mapreduce-client-core-3.3.4-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/3.3.4/hadoop-yarn-client-3.3.4-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-reload4j/1.7.36/slf4j-reload4j-1.7.36-sources.jar
+[info] downloading https://repo1.maven.org/maven2/ch/qos/reload4j/reload4j/1.2.22/reload4j-1.2.22-sources.jar
+[info] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-reload4j/1.7.36/slf4j-reload4j-1.7.36-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36-sources.jar
+[info] shutting down sbt server
